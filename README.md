@@ -5,9 +5,9 @@ Web technologies used: HTML5, CSS3 and JavaScript
 
 API used: OpenWeatherMap API
 
-(**Note:** Valid format is city name (Brampton) or city name, country code (Brampton,ca). )
-
 Click the link in **About** section to use the weather app.
+
+(**Note:** Valid format is city name (Brampton) or city name, country code (Brampton,ca). )
 
 ## A sample screenshot of Project
 ![Screesshot of GUI](https://github.com/Dev-Daljeet/WeatherApp/blob/main/screenshots/default.jpg?raw=true)
@@ -16,9 +16,15 @@ Click the link in **About** section to use the weather app.
 
 ### How to use weather app:
   1. Enter the location (name or name with country code) of a city you want to search weather info for. For example, Brampton or Brampton,ca.
-  2. After entering the name in valid format, click on 'Submit' button to display the weather info.
+  2. After entering the name in a valid format, click on 'Submit' button to display the weather info.
      The result will be displayed in a white rectangle box.
      
+### How to download/run:
+  1. Clone the project or download the zip file and unzip it
+  2. Click on index.html and open it with any compatible web browser like Chrome, Edge, Opera or Firefox
+  3. You will see the web page with weather app heading and text field.
+  
+  (If you want to use my .js file, please use your own API key. Go to OpenWeatherMap and make an account. You will get free API Key. Look for API key comment in .js file and replace my API key with your own API key in .js file.)
 ## Usage example:
 ### Example 1:  Searching the weather of few popular cities
 Serach the weather of California, Toronto and Waterloo. 
